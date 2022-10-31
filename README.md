@@ -12,7 +12,7 @@ This is a simple Todo application built off Django (including the Django REST Fr
 3. Source the virtual environment ```[pipenv shell]```
 4. Install the dependencies ```[pipenv install]```
 5. Navigate into the frontend directory ```[cd frontend]```
-5. Install the dependencies ```[npm install]```
+
 
 ## Run the application
 You will need two terminals pointed to the frontend and backend directories to start the servers for this application.
@@ -26,6 +26,4 @@ You will need two terminals pointed to the frontend and backend directories to s
 * [Python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
 * [Django](http://djangoproject.org/) - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
 
-## Creator Credit
 
-This demo app was originally built for a scotch.io (acquired in 2020 by DigitalOcean) article by [Jordan Irabor](https://github.com/Jordanirabor/django-todo-react)
