@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React. For a complete walkthrough, see [Build a To-Do application Using Django and React](https://www.digitalocean.com/community/tutorials/build-a-to-do-application-using-django-and-react)
+This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React
 
 ## Requirements
 * Python3
@@ -22,8 +22,8 @@ You will need two terminals pointed to the frontend and backend directories to s
 
 ## Built With
 
-* [React](https://reactjs.org) - A progressive JavaScript framework.
-* [Python](https://www.python.org/) - A programming language that lets you work quickly and integrate systems more effectively.
-* [Django](http://djangoproject.org/) - A high-level Python Web framework that encourages rapid development and clean, pragmatic design.
+* [React]
+* [Python]
+* [Django]
 
 
